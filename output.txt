@@ -1,6 +1,0 @@
-[18:24:19] [Render thread/INFO]: [CHAT] IC | PapalStates | Jamie_"The_Robber"_Romano » !savemessage 10
-
-[18:25:37] [Render thread/INFO]: [CHAT] IC | PapalStates | Jamie_"The_Robber"_Romano » !savemessage 3
-
-[18:26:23] [Render thread/INFO]: [CHAT] IC | PapalStates | Jamie_"The_Robber"_Romano » !savemessage 5
-
