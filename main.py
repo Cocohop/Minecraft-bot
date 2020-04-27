@@ -36,6 +36,9 @@ def get_chat(time):
                 output_file.write(line+"\n")
     output_file.close()
 if __name__ == "__main__":
+    print("Welcome to Warpig ChatCapture. \nType !savemessage [time in minutes] to capture the appropriate RP and save it to output.txt \ne.g: !savemessage 10")
     first_time = get_time()
+    print("Fetching log-files . . .")
     get_chat(first_time)
-
+    print("Chat Captured, thank you for using Warpig ChatCapture :)\nOutput saved to output.txt")
+    input("Press Enter to close")
