@@ -1,12 +1,6 @@
-[18:04:41] [Render thread/INFO]: [CHAT] IC | PapalStates | Jamie_"The_Robber"_Romano » save
+[18:20:14] [Render thread/INFO]: [CHAT] IC | PapalStates | Jamie_"The_Robber"_Romano » !savemessage 10
 
-[18:05:50] [Render thread/INFO]: [CHAT] IC | PapalStates | Jamie_"The_Robber"_Romano » hi
+[18:20:52] [Render thread/INFO]: [CHAT] IC | PapalStates | Jamie_"The_Robber"_Romano » !savemessage 3
 
-[18:07:10] [Render thread/INFO]: [CHAT] IC | PapalStates | Jamie_"The_Robber"_Romano » s
-
-[18:09:13] [Render thread/INFO]: [CHAT] IC | PapalStates | Jamie_"The_Robber"_Romano » asd
-
-[18:09:19] [Render thread/INFO]: [CHAT] IC | PapalStates | Jamie_"The_Robber"_Romano » !savemessage
-
-[18:14:05] [Render thread/INFO]: [CHAT] IC | PapalStates | Jamie_"The_Robber"_Romano » !savemessage
+[18:21:20] [Render thread/INFO]: [CHAT] IC | PapalStates | Jamie_"The_Robber"_Romano » !savemessage 2
 
