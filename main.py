@@ -34,6 +34,7 @@ def get_chat(time):
             seconds = int(linetime[6:8])
             linetimefinal = datetime.timedelta(hours=hours, minutes=minutes, seconds=seconds)
             if  linetimefinal > time:
+                line = line[0:10] + line[39:]
                 output_file.write(line+"\n")
     output_file.close()
 if __name__ == "__main__":
