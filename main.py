@@ -24,7 +24,9 @@ def get_time():
 def get_chat(time):
     logfile = open(os.getenv("APPDATA") + "/.minecraft/logs/latest.log", "r")
     thefile = logfile.readlines()
-    output_file = open("output.txt","w+")
+    file_name = str(datetime.datetime.today())[:19] + ".txt"
+    file_name = file_name.replace(":", "-")
+    output_file = open(file_name,"w+")
     for i in range(len(thefile)):
         line = thefile[i]
         if "[CHAT] IC" in line  or "[CHAT] W " in line or "[CHAT] S " in line:
